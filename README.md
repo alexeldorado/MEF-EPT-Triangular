@@ -1,5 +1,5 @@
 # MEF-EPT-Triangular
-Método dos Elementos Finitos
+Método dos Elementos Finitos - 
 Elemento finito triangular linear - Estado Plano de Tensões
 
 _Mestrando. Alex Koch de Almeida._ [(Lattes)](http://lattes.cnpq.br/7734327250758963)  
